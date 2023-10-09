@@ -1,4 +1,4 @@
-### Olá! Eu sou o Pedro 👋🏻
+### Olá! Eu sou o Heitor 👋🏻
 
 ![Heitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=heitorbraz&show_icons=true&theme=holi)
 
